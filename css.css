@@ -1,0 +1,12 @@
+body{
+    background-color: aqua
+}
+
+h1{font-size: 30px; color: #36E761;}
+h2{font-size: 60px; color: red;}
+.big{font-size: 100px}
+.upper{
+    text-transform: uppercase;
+}
+.big.upper{color: navy;}
+span{color: violet;}
