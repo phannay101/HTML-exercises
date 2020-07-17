@@ -1,0 +1,58 @@
+body{
+    background-color: aqua;
+    margin: 0;
+
+}
+
+header{
+    background-color: bisque;
+    text-align: center;
+}
+
+header h1{
+
+    background-color: chocolate;
+    font-family: Lobster, cursive;
+}
+
+h1, h2{
+
+    font-family: Lobster, cursive;
+    font-size: 30px;
+}
+
+header img{
+    border-radius: 170px;
+    width: 300px;
+    border: 20px solid seagreen;
+
+}
+
+h2{
+    font-size: 30px;
+    color: brown;    
+}
+
+a{
+    color: brown;
+}
+a:hover{
+    color: aquamarine;
+}
+
+main{
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 0 20px 20px 100px;
+}
+
+main img{
+    max-width: 100%;
+}
+
+p.caption{
+    color: rgb(218, 32, 32);
+    font-style: italic;
+    margin-bottom: 0;
+
+}
